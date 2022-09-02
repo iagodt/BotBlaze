@@ -1,4 +1,10 @@
 # BotBlaze
   Setup:
-  pip install -r requeriments.txt
-  enjoy!!
+  
+  
+      pip install -r requeriments.txt
+
+
+
+
+enjoy!!
